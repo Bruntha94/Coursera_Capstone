@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is used for coursera Project
+This project is a part of IBM Data Science Professional Certificate course in Coursera. This is completely dedicated to Capstone Project.
